@@ -9,3 +9,6 @@ Click `up/down (j/k) arrow` to move up and down
 1. Make sure you have [pipenv](https://pypi.org/project/pipenv/) installed
 2. Run `pipenv install`
 3. Run `pipenv run python app.py`
+
+### To add additional RSS feed source
+Simply add name and feed url into `feed.json`
