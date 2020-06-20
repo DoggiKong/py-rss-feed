@@ -1,0 +1,20 @@
+{
+    "feeds": [
+        {
+            "title": "Wired",
+            "url": "https://www.wired.com/feed/rss"
+        },
+        {
+            "title": "Hackernoon",
+            "url": "https://hackernoon.com/feed"
+        },
+        {
+            "title": "Medium",
+            "url": "https://medium.com/feed/the-story"
+        },
+        {
+            "title": "Hacker News",
+            "url": "https://news.ycombinator.com/rss"
+        }
+    ]
+}
